@@ -41,7 +41,7 @@
 
 ### 1. **Download & Setup**
 \`\`\`bash
-# Download code from v0
+# Download code from vercel
 npm install
 \`\`\`
 
